@@ -3,6 +3,12 @@
 
 
 
+Docker Images: 
+1. Naming Server: docker.io/rolvinss/poc-naming-server:latest
+2. API Gateway: docker.io/rolvinss/poc-api-gateway:latest
+3. Billing Service: docker.io/rolvinss/poc-billing-service:latest
+4. Energy Service: docker.io/rolvinss/poc-energy-service:latest
+
 API Gateway:http://localhost:8765/
 
 Eureka:http://localhost:8761/
